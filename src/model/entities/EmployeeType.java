@@ -1,3 +1,5 @@
+package model.entities;
+
 public class EmployeeType {
     private String type;
 

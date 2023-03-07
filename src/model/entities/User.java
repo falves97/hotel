@@ -1,4 +1,7 @@
+package model.entities;
+
 import java.util.regex.Pattern;
+import model.entities.types.*;
 
 public class User extends Person {
     private UserType userType;

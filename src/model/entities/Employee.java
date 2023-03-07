@@ -1,3 +1,5 @@
+package model.entities;
+
 public class Employee extends Person {
     private EmployeeType employeeType;
 

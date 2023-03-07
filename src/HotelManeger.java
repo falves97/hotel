@@ -1,11 +1,8 @@
 import java.math.BigDecimal;
 import java.time.LocalDate;
-import java.util.ArrayList;
-import java.util.HashSet;
-import java.util.Set;
+import model.entities.*;
 
 public class HotelManeger {
-    private ArrayList<Hotel> hoteis = new ArrayList<>();
 
     public static void main(String[] args) {
         Hotel hotel = new Hotel();
